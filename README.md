@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋  i'm mehrdad</h1>
 <h1 align="center">If you don't want to be the same color <br/> go crazy for the crowd</h1>
 
-<div style="display:flex;">
 
-<div>
+
+<div style="display:inline-block;">
 - 📬 The way To contact me **mehrdadjokari13@gmail.com**
 
 - 👨🏻‍💻 I am learning **JavaScript AND UI/UX**
@@ -13,11 +13,10 @@
 - 🗃️ It is my projecs **https://mehrdadj2005.github.io/TOM-AND-JERRY-GAME/**
 <div/>
 
-<div>
+<div style="display:inline-block;">
     <img align="right" alt="Coding" width="200" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 <div/>
 
-<div/>
 <br/><br/>
 
 <h3 align="left">Languages:</h3><br/>
