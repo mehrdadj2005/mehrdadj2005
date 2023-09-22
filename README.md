@@ -5,7 +5,7 @@
 
 - 👨🏻‍💻 I am learning **JavaScript AND UI/UX**
 
-- 🗃️ It is my projecs **https://feri-punisher.github.io/IQ-test**/
+- 🗃️ It is my projecs **https://feri-punisher.github.io/IQ-test/**
 
 - 🗃️ It is my projecs **https://mehrdadj2005.github.io/TOM-AND-JERRY-GAME/**
 
