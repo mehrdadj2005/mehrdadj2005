@@ -3,7 +3,7 @@
 
 
 
-<div style="display:flex;">
+<div style="display:flex;" align="left">
 - 📬 The way To contact me **mehrdadjokari13@gmail.com**
 
 - 👨🏻‍💻 I am learning **JavaScript AND UI/UX**
