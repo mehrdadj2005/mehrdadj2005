@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋  i'm mehrdad</h1>
 
-<h3>If you don't want to be the same color go <br/> crazy for the crowd</h3>
+<h1 align="center">If you don't want to be the same color <br/> go crazy for the crowd</h1>
 
 - 📬 The way To contact me **mehrdadjokari13@gmail.com**
 
