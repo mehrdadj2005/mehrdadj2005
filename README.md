@@ -11,7 +11,6 @@
 - 🗃️ It is my projecs **https://mehrdadj2005.github.io/TOM-AND-JERRY-GAME/**
     
 
-<br/><br/>
 <img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/multi-screen.gif">
 <h3 align="left">Languages:</h3><br/>
 <p style="display:flex; margin: 0 auto; justify-content: space-evenly; width:70%; align-items: center"
