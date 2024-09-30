@@ -7,9 +7,9 @@ Go crazy for the crowd</h1>
 
 - 📬 The way To contact me **mehrdadjokari13@gmail.com**
 
-- 👨🏻‍💻 I am learning **JavaScript AND UI/UX**
+- 👨🏻‍💻 I am learning **React ALSO Next.js** developer
 
-- 🗃️ It is my projecs **https://feri-punisher.github.io/IQ-test/**
+- 🗃️ It is my projecs **https://usepopcorn.somee.com/**
 
 - 🗃️ It is my projecs **https://mehrdadj2005.github.io/TOM-AND-JERRY-GAME/**
     
