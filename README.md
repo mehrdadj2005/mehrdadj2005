@@ -18,7 +18,7 @@ Go crazy for the crowd</h1>
 <h3 align="left">Languages:</h3><br/>
 <p style="display:flex; margin: 0 auto; justify-content: space-evenly; width:70%; align-items: center;">
     <a href="https://www.React.dev/" " target="_blank" rel="noreferrer"><img  style="width:50px;" alt="Coding"  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a>
-    <a href="https://www.figma.com/" " target="_blank" rel="noreferrer"><img  style="width:50px;" alt="Coding"  src="https://img.icons8.com/?size=256w&id=Xf1sHBmY73hA&format=png"></a>
+<!--     <a href="https://www.figma.com/" " target="_blank" rel="noreferrer"><img  style="width:50px;" alt="Coding"  src="https://img.icons8.com/?size=256w&id=Xf1sHBmY73hA&format=png"></a> -->
     <a href="https://www.figma.com/" " target="_blank" rel="noreferrer"> <img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
     <a> <img style="width:50px;" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui" /> <a/>
     <a> <img style="width:50px;" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css" /> <a/>
