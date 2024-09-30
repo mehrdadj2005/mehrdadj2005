@@ -16,8 +16,7 @@ Go crazy for the crowd</h1>
 
 <img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/multi-screen.gif">
 <h3 align="left">Languages:</h3><br/>
-<p style="display:flex; margin: 0 auto; justify-content: space-evenly; width:70%; align-items: center"
-    align-items: center;">
+<p style="display:flex; margin: 0 auto; justify-content: space-evenly; width:70%; align-items: center;">
     <a href="https://www.React.dev/" " target="_blank" rel="noreferrer"><img  style="width:50px; " alt="Coding"  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a>
     <a href="https://www.figma.com/" " target="_blank" rel="noreferrer"><img  style="width:50px; " alt="Coding"  src="https://img.icons8.com/?size=256w&id=Xf1sHBmY73hA&format=png"></a>
     <a href="https://www.figma.com/" " target="_blank" rel="noreferrer"><img  style="width:60px;" alt="Coding"  src="https://img.icons8.com/?size=256&id=108784&format=png"></a>
