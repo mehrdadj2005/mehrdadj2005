@@ -21,7 +21,7 @@ Go crazy for the crowd</h1>
     <a href="https://www.React.dev/" " target="_blank" rel="noreferrer"><img  style="width:50px; " alt="Coding"  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a>
     <a href="https://www.figma.com/" " target="_blank" rel="noreferrer"><img  style="width:50px; " alt="Coding"  src="https://img.icons8.com/?size=256w&id=Xf1sHBmY73hA&format=png"></a>
     <a href="https://www.figma.com/" " target="_blank" rel="noreferrer"><img  style="width:50px; ;" alt="Coding"  src="https://img.icons8.com/?size=256&id=108784&format=png"></a>
-    <a href="https://www.figma.com/" " target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+    <a href="https://www.figma.com/" " target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"/> </a>
     <a href="https://getbootstrap.com"  target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" alt="bootstrap" width="40" height="40"/></a>
  <p/>
  
