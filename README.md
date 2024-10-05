@@ -20,6 +20,7 @@ Go crazy for the crowd</h1>
     <a href="https://www.React.dev/" " target="_blank" rel="noreferrer"><img  style="width:50px;" alt="Coding"  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a>
 <!--     <a href="https://www.figma.com/" " target="_blank" rel="noreferrer"><img  style="width:50px;" alt="Coding"  src="https://img.icons8.com/?size=256w&id=Xf1sHBmY73hA&format=png"></a> -->
     <a href="https://www.figma.com/" " target="_blank" rel="noreferrer"> <img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
+    <a href="https://www.figma.com/" " target="_blank" rel="noreferrer"> <img style="width:50px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg](https://camo.githubusercontent.com/af6846c4aebdf70397acf5457e69d727329889e236ddad6052dd6a303651ff42/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4e2f6e6578742d6a732d69636f6e2d6c6f676f2d454533303244354442442d7365656b6c6f676f2e636f6d2e706e67)" /></a>
     <a> <img style="width:50px;" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui" /> <a/>
     <a> <img style="width:50px;" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css" /> <a/>
     <a href="https://getbootstrap.com"  target="_blank" rel="noreferrer"> <img style="width:50px; height=100px;" src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" alt="bootstrap"/></a>
