@@ -25,6 +25,6 @@ Go crazy for the crowd</h1>
     <a> <img style="width:50px;" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css" /> <a/>
     <a href="https://getbootstrap.com"  target="_blank" rel="noreferrer"> <img style="width:50px; height=100px;" src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" alt="bootstrap"/></a>
     <a href="https://getbootstrap.com"  target="_blank" rel="noreferrer"> <img style="width:50px; height=100px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="bootstrap"/></a>
-    <a href="https://getbootstrap.com"  target="_blank" rel="noreferrer"> <img style="width:50px; height=100px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg****" alt="bootstrap"/></a>
+    <a href="https://getbootstrap.com"  target="_blank" rel="noreferrer"> <img style="width:50px; height=100px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="bootstrap"/></a>
  <p/>
  
