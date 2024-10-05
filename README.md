@@ -17,14 +17,14 @@ Go crazy for the crowd</h1>
 <img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/multi-screen.gif">
 <h3 align="left">Languages:</h3><br/>
 <p style="display:flex; margin: 0 auto; justify-content: space-evenly; width:70%; align-items: center;">
-    <a href="https://www.React.dev/" " target="_blank" rel="noreferrer"><img  style="width:50px;" alt="Coding"  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a>
+    <a href="https://www.React.dev/" " target="_blank" rel="React"><img  style="width:50px;" alt="Coding"  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a>
 <!--     <a href="https://www.figma.com/" " target="_blank" rel="noreferrer"><img  style="width:50px;" alt="Coding"  src="https://img.icons8.com/?size=256w&id=Xf1sHBmY73hA&format=png"></a> -->
-    <a href="https://nextjs.org/" " target="_blank" rel="noreferrer"> <img style="width:50px;" src="https://camo.githubusercontent.com/af6846c4aebdf70397acf5457e69d727329889e236ddad6052dd6a303651ff42/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4e2f6e6578742d6a732d69636f6e2d6c6f676f2d454533303244354442442d7365656b6c6f676f2e636f6d2e706e67" /></a>
-    <a href="https://www.javascript.com/" " target="_blank" rel="noreferrer"> <img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
-    <a href="https://mui.com/material-ui/"> <img style="width:50px;" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui" /> <a/>
-    <a href="https://tailwindcss.com/"> <img style="width:50px;" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css" /> <a/>
-    <a href="https://getbootstrap.com/"  target="_blank" rel="noreferrer"> <img style="width:50px; height=100px;" src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" alt="bootstrap"/></a>
-    <a href="https://www.w3.org/Style/CSS/Overview.en.html#translations"  target="_blank" rel="noreferrer"> <img style="width:50px; height=100px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="bootstrap"/></a>
-    <a href="https://html.com/tags/main/"  target="_blank" rel="noreferrer"> <img style="width:50px; height=100px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="bootstrap"/></a>
+    <a href="https://nextjs.org/" " target="_blank" rel="Nextjs"> <img style="width:50px;" src="https://camo.githubusercontent.com/af6846c4aebdf70397acf5457e69d727329889e236ddad6052dd6a303651ff42/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4e2f6e6578742d6a732d69636f6e2d6c6f676f2d454533303244354442442d7365656b6c6f676f2e636f6d2e706e67" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" " target="_blank" rel="JavaScript"> <img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
+    <a href="https://mui.com/material-ui/" rel="Material UI"> <img style="width:50px;" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui" /> <a/>
+    <a href="https://tailwindcss.com/" rel="Tailwindcss"> <img style="width:50px;" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css" /> <a/>
+    <a href="https://getbootstrap.com/"  target="_blank" rel="Bootstrap"> <img style="width:50px; height=100px;" src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" alt="bootstrap"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"  target="_blank" rel="CSS"> <img style="width:50px; height=100px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="bootstrap"/></a>
+    <a href="https://html.com/tags/main/"  target="_blank" rel="HTML"> <img style="width:50px; height=100px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="bootstrap"/></a>
  <p/>
  
