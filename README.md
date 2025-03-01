@@ -3,7 +3,7 @@
 <h1 align="center">If you don't want to be the same color
 Go crazy for the crowd</h1>
 
-## My Site **https://www.mehrdadjokari.com/**
+## My Site **http://www.mehrdadjokari.com/**
 
 - 📬 The way To contact me **mehrdadjokari13@gmail.com**
 
