@@ -9,7 +9,7 @@ Go crazy for the crowd</h1>
 
 - 👨🏻‍💻 I'm a **React ALSO Next.js** developer.
 
-- <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="Linkedin" /> It's my Linkedin **https://www.linkedin.com/in/mehrdad-jokari-4bab33276/**
+- <img style="width: 20px;" src="https://img.icons8.com/fluency/48/linkedin.png" alt="Linkedin" /> It's my Linkedin **https://www.linkedin.com/in/mehrdad-jokari-4bab33276/**
 
 - 🗃️ It's my projecs **https://usepopcorn.somee.com/**
 
