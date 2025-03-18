@@ -7,7 +7,7 @@ Go crazy for the crowd</h1>
 
 - 📬 The way To contact me **mehrdadjokari13@gmail.com**
 
-- 👨🏻‍💻 I am learning **React ALSO Next.js** developer
+- 👨🏻‍💻 I am a **React ALSO Next.js** developer.
 
 - 🗃️ It is my projecs **https://usepopcorn.somee.com/**
 
