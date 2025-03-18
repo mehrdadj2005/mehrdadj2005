@@ -7,11 +7,13 @@ Go crazy for the crowd</h1>
 
 - 📬 The way To contact me **mehrdadjokari13@gmail.com**
 
-- 👨🏻‍💻 I am a **React ALSO Next.js** developer.
+- 👨🏻‍💻 I'm a **React ALSO Next.js** developer.
 
-- 🗃️ It is my projecs **https://usepopcorn.somee.com/**
+- <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="Linkedin" /> It's my Linkedin **https://www.linkedin.com/in/mehrdad-jokari-4bab33276/**
 
-- 🗃️ It is my projecs **https://mehrdadj2005.github.io/TOM-AND-JERRY-GAME/**
+- 🗃️ It's my projecs **https://usepopcorn.somee.com/**
+
+- 🗃️ It's my projecs **https://mehrdadj2005.github.io/TOM-AND-JERRY-GAME/**
     
 
 <img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/multi-screen.gif">
