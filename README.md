@@ -9,12 +9,7 @@ Go crazy for the crowd</h1>
 
 - 👨🏻‍💻 I'm a **React ALSO Next.js** developer.
 
-- <img style="width: 20px;" src="https://img.icons8.com/fluency/48/linkedin.png" alt="Linkedin" /> It's my Linkedin **https://www.linkedin.com/in/mehrdad-jokari-4bab33276/**
-
-- 🗃️ It's my projecs **https://usepopcorn.somee.com/**
-
-- 🗃️ It's my projecs **https://mehrdadj2005.github.io/TOM-AND-JERRY-GAME/**
-    
+- <img style="width: 20px;" src="https://img.icons8.com/fluency/48/linkedin.png" alt="Linkedin" /> It's my Linkedin **https://www.linkedin.com/in/mehrdad-jokari-4bab33276/**    
 
 <img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/multi-screen.gif">
 <h3 align="left">Languages:</h3><br/>
